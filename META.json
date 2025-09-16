@@ -1,0 +1,65 @@
+{
+  "category": "container-management",
+  "created_date": "2025-09-15T22:48:58.711827",
+  "default_ports": [
+    80,
+    443,
+    8000,
+    9000
+  ],
+  "dependencies": [
+    "docker"
+  ],
+  "description": "portainer is a free and open-source container management platform. Portainer simplifies container management across Docker, Swarm, and Kubernetes environments, providing a GUI alternative to command-line tools",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/container-management/portainer",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/container-management/portainer",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.711855",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "portainer",
+  "repository_url": "https://github.com/howtomgr/portainer",
+  "spec_version": "2.0",
+  "subcategory": "container-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "container-management",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "portainer Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/container-management/portainer"
+}
